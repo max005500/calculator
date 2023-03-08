@@ -7,7 +7,6 @@ class SubResult extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: double.infinity,
       alignment: Alignment.centerRight,
       child: Text(
         text,
